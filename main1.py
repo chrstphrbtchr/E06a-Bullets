@@ -40,6 +40,7 @@ class Bullet(arcade.Sprite):
         self.center_x += self.dx
         self.center_y += self.dy
 
+# OK!
 
     
 class Player(arcade.Sprite):
